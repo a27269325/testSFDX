@@ -1,0 +1,1015 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"message",
+				"apex:message\tvisualforce"
+			],
+			[
+				"page",
+				"apex:pageBlockTable"
+			],
+			[
+				"pgeb",
+				"pageBlockButtons\tapex"
+			],
+			[
+				"inputte",
+				"inputText\tapex"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"re",
+				"renderAs\t(String)"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"bo",
+				"border\tAttr"
+			],
+			[
+				"render",
+				"renderAs\t(String)"
+			],
+			[
+				"right",
+				"Rightlist"
+			],
+			[
+				"ren",
+				"renderAs\t(String)"
+			],
+			[
+				"red",
+				"renderAs\tPicklist"
+			],
+			[
+				"add",
+				"adderror"
+			],
+			[
+				"get",
+				"PUBLIC getMessage() \tString"
+			],
+			[
+				"old",
+				"oldMap"
+			],
+			[
+				"ex",
+				"extensions\tString"
+			],
+			[
+				"brand_c",
+				"Brand_Category1__c"
+			],
+			[
+				"brandca",
+				"Brand_Category1__c"
+			],
+			[
+				"inputtext",
+				"apex:inputText"
+			],
+			[
+				"inputhi",
+				"apex:inputHidden"
+			],
+			[
+				"co",
+				"columns\tInteger"
+			],
+			[
+				"pageb",
+				"pageBlockSection\tapex"
+			],
+			[
+				"on",
+				"onchange\tString"
+			],
+			[
+				"Bra",
+				"Brand2__c"
+			],
+			[
+				"record",
+				"Record_Typeid"
+			],
+			[
+				"Callpla",
+				"CallPlan__c"
+			],
+			[
+				"is",
+				"isblank"
+			],
+			[
+				"sta",
+				"standardController\tString"
+			],
+			[
+				"stat",
+				"Status__c"
+			],
+			[
+				"Call",
+				"CallPlan__c\t[Sobject Name]"
+			],
+			[
+				"out",
+				"apex:outputText"
+			],
+			[
+				"cal",
+				"Call_Plan_Or_Call_Report__c \tText"
+			],
+			[
+				"input",
+				"apex:inputField"
+			],
+			[
+				"fee",
+				"FeedBack__c"
+			],
+			[
+				"sho",
+				"showFeedback1"
+			],
+			[
+				"select",
+				"SelectOption"
+			],
+			[
+				"e",
+				"ExtId__c"
+			],
+			[
+				"sa",
+				"Sales_Amt__c"
+			],
+			[
+				"lastm",
+				"Last_Month_ActualAmount__c"
+			],
+			[
+				"for",
+				"Forecast_Amt__c"
+			],
+			[
+				"ytd",
+				"YTD_ForcastAmount__c"
+			],
+			[
+				"y",
+				"YTD_SalesAmount__c"
+			],
+			[
+				"da",
+				"Date__c"
+			],
+			[
+				"in",
+				"apex:insert"
+			],
+			[
+				"inpu",
+				"apex:inputField"
+			],
+			[
+				"m",
+				"PUBLIC month() \tInteger"
+			],
+			[
+				"Date",
+				"Datetime\t[Standard Apex Class]"
+			],
+			[
+				"new",
+				"newMap"
+			],
+			[
+				"brand",
+				"Brand1__c"
+			],
+			[
+				"bra",
+				"Brand__c"
+			],
+			[
+				"remar",
+				"Remark__c"
+			],
+			[
+				"apexout",
+				"apex:outputPanel"
+			],
+			[
+				"outp",
+				"apex:outputPanel"
+			],
+			[
+				"w",
+				"Weekly_Plan"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 221.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/michael/AppData/Roaming/Sublime Text 3/Packages/MavensMate/sublime/settings-help.txt",
+		"/C/Users/michael/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/pages/ChannelTxnDataQuery.page",
+		"/C/Users/michael/AppData/Roaming/Sublime Text 3/Packages/User/toolingapi.sublime-settings",
+		"/C/Users/michael/AppData/Roaming/Sublime Text 3/Packages/haoide/config/settings/toolingapi.sublime-settings",
+		"/C/Users/michael/AppData/Roaming/Sublime Text 3/Packages/User/HaoIDE/pro-sublime-20170906/.export/CustomField.csv",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/classes/TestTW_Check_Related_Account.cls",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/classes/ProfileKeysController.cls",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/classes/CRU_Report_TestMethod.cls",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/pages/MaterialRequestExport.page",
+		"/D/SublimeWorkSpace/AGI Fiti5/src/pages/MaterialRequestExportPDF.page",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/CRU_Report_TestMethod.cls",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/DistributionListTests.cls",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/SurveyAndQuestionController.cls-meta.xml",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/pages/CRU_Report.page",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/pages/CCM_Report.page",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/triggers/CampaignMember_AIUD_Measurement.trigger",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/triggers/Account_BD_prevent.trigger",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/ExtAddAttendeeToMN_Test.cls",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/TW_MaterialSetting.cls",
+		"/D/SublimeWorkSpace/AGI FITI DEV/src/classes/TW_MaterialSettingTest.cls",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/classes/New_Call_Report.cls",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/pages/New_Call_Report.page",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/classes/Test_Calendar_Page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/classes/New_Call_Report_test.cls",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/classes/New_Call_Plan_test.cls",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/triggers/Call_Report_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Refresh 20170330/src/pages/New_Call_plan.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Account_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_Calendar_Page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/New_Weekly_Plan_SF1.cls-meta.xml",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/New_Weekly_Plan_SF1.page-meta.xml",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/Order_page.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Order_page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/New_Call_Report.page-meta.xml",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/New_Call_Report.cls-meta.xml",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Calendar_Page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/New_Call_Report.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/INV.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/CallPlan_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Call_Report_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Competing_products_Info_Controller.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/New_Call_Report.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/DetectMobile.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/Competing_products_Info_Page.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV_Calculate.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV_Calculate_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV_Calculate_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Should_I_Run_Trigger.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_Check_Past_INV_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/Calendar_Page.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_INV_Calculate.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/WithoutSharingHandling.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_trg_Check_WP_Duplicate.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Check_WP_Duplicate.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/ScenarioTestData.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Account_Status_Change.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Account_Status_Batch_Job.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/ClickBox.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Tri_DRSinfo.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/components/Calender_Script.component",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_Trigger_Method.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Delete_NetSalesBudgetSnapshot_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/trig_Present_Batch_Insert.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Delete_NetSalesBudgetSnapshot_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Delete_NetSalesBudgetSnapshot.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Check_Past_INV.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/NetSalesBudgetSnapshot.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/NetSalesBudgetSnapshot_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/NetSalesBudget_Report_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_RunNetSalesBudgetSnapshot.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/RunNetSalesBudgetSnapshot.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/ext_RunNetSalesBudgetSnapshot.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Update_Call_Plan_Status.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/triggers/Account_Level_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/components/Calender_Style.component",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV_Check_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/RemoteGetMessage.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/pages/Search_Window.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/ext_Search_Window.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Testtrig_BatchInsertBaby.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/Test_Competeting_Product_Info.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV_Check_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/src/classes/INV.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/apex-scripts/log/2015-09-24-11.27.44.log",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox 2015 9 23/apex-scripts/log/2015-09-24-11.28.00.log",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/pages/Calendar_Page.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/components/Calender_Style.component",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/components/Calender_Script.component",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Calendar_Page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/INV_Calculate_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/INV_Calculate_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/INV_Calculate.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/INV_Check_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Check_Past_INV_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/triggers/Call_Report_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/clsTest_trig_Present_Batch_Insert.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Testtrig_BatchInsertBaby.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/triggers/Account_Level_Handling.trigger",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/ScenarioTestData.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Test_Trigger_Method.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Test_INV_Calculate.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Test_Check_Past_INV_Schedule.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Test_Calendar_Page.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Competing_products_Info_Controller.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Test_Competing_Product.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/pages/Competing_products_Info_Page.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Check_Past_INV_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/INV_Check_Batch.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/classes/Check_Past_INV.cls",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/pages/Mytestpage.page",
+		"/D/SublimeWorkSpace/OEP UAT Sandbox/src/pages/testpage.page",
+		"/D/SublimeWorkSpace/ECIC Sandbox/src/classes/DeleteInvoice_RestService.cls",
+		"/D/SublimeWorkSpace/My Test ORG/src/classes/TestRestService.cls"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sfdx-project.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"surve",
+				"AGI Fiti5\\src\\pages\\SurveyPage.page"
+			],
+			[
+				"twglobalsear",
+				"AGI Fiti5\\src\\pages\\TW_GlobalSearchAccTA.page"
+			],
+			[
+				"tw_globalsearchaccta",
+				"AGI Fiti5\\src\\pages\\TW_GlobalSearchAccTA.page"
+			],
+			[
+				"twglobalser",
+				"AGI Fiti5\\src\\classes\\TW_GlobalSearchAccTA.cls"
+			],
+			[
+				"",
+				"AGI Fiti5\\src\\classes\\TW_MaterialRequestExportTest.cls"
+			],
+			[
+				"tw_nfdr073report",
+				"AGI Fiti5\\src\\classes\\TW_NFDR073Report_Test.cls"
+			],
+			[
+				"tw_chmtxndetail",
+				"AGI Fiti5\\src\\classes\\TW_CHMTxnDetailTest.cls"
+			],
+			[
+				"twfunddaa",
+				"AGI Fiti5\\src\\classes\\TW_FundDataQueryTest.cls"
+			],
+			[
+				"fund",
+				"AGI Fiti5\\src\\pages\\FundDataQuery.page"
+			],
+			[
+				"tw_materialrequestexport",
+				"AGI Fiti5\\src\\classes\\TW_MaterialRequestExportTest.cls"
+			],
+			[
+				"materialrequestexport",
+				"AGI Fiti5\\src\\pages\\MaterialRequestExport.page"
+			],
+			[
+				"twaccount",
+				"AGI Fiti5\\src\\classes\\TW_Account_Query.cls"
+			],
+			[
+				"tw_dynamicnewcase",
+				"AGI Fiti5\\src\\classes\\TW_DynamicNewCase.cls"
+			],
+			[
+				"dynamicnewcase",
+				"AGI Fiti5\\src\\pages\\DynamicNewCase.page"
+			],
+			[
+				"crurepo",
+				"AGI Fiti5\\src\\classes\\CRU_Report.cls"
+			],
+			[
+				"crureport",
+				"AGI Fiti5\\src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"tw_funddataquery",
+				"AGI Fiti5\\src\\classes\\TW_FundDataQuery.cls"
+			],
+			[
+				"funddataquery",
+				"AGI Fiti5\\src\\pages\\FundDataQuery.page"
+			],
+			[
+				"twcheck",
+				"AGI Fiti5\\src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"cru_report_excel",
+				"AGI Fiti5\\src\\pages\\CRU_Report_Excel.page"
+			],
+			[
+				"cru",
+				"AGI Fiti5\\src\\classes\\CRU_Report.cls"
+			],
+			[
+				"related",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"tw_getempaocodescheduletest",
+				"src\\classes\\TW_GetEMPAOCodeScheduleTest.cls"
+			],
+			[
+				"materialrequpage",
+				"src\\pages\\MaterialRequestExport.page"
+			],
+			[
+				"materialrequestexportpdfs_michael",
+				"src\\classes\\MaterialRequestExportPDFs_Michael.cls"
+			],
+			[
+				"matepdf",
+				"src\\pages\\MaterialRequestExportPDF.page"
+			],
+			[
+				"materialpdf",
+				"src\\pages\\MaterialRequestExportPDF.page"
+			],
+			[
+				"materialrequestexportpdfs",
+				"src\\pages\\MaterialRequestExportPDFs.page"
+			],
+			[
+				"crutest",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"extmeetingnoteentrypagev2",
+				"src\\classes\\ExtMeetingNoteEntryPageV2.cls"
+			],
+			[
+				"extmeetingnoteentrypage",
+				"src\\pages\\ExtMeetingNoteEntryPage.page"
+			],
+			[
+				"testcheck",
+				"src\\classes\\TestTW_Check_Related_Account.cls"
+			],
+			[
+				"check",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"relatedaccount",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"sur",
+				"src\\pages\\SurveyPage.page"
+			],
+			[
+				"gsurveyscontroller",
+				"src\\classes\\GSurveysController.cls"
+			],
+			[
+				"surveyandquestioncontroller",
+				"src\\classes\\SurveyAndQuestionController.cls"
+			],
+			[
+				"surv",
+				"src\\pages\\SurveyPage.page"
+			],
+			[
+				"crure",
+				"src\\pages\\CRU_Report_Excel.page"
+			],
+			[
+				"crureportmethod",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"testmet",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"testtw_new_closely_related",
+				"src\\classes\\TestTW_New_Closely_related.cls"
+			],
+			[
+				"new",
+				"src\\classes\\TW_New_Closely_related.cls"
+			],
+			[
+				"crutestmeth",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"cru_report_testmethod",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"test_tw_material_request",
+				"src\\classes\\Test_TW_Material_Request.cls"
+			],
+			[
+				"crureporttest",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"addm",
+				"src\\pages\\AddMem.page"
+			],
+			[
+				"dist",
+				"src\\classes\\DistributionListTests.cls"
+			],
+			[
+				"addmember",
+				"src\\classes\\AddMembers.cls"
+			],
+			[
+				"distri",
+				"src\\classes\\DistributionListTests.cls"
+			],
+			[
+				"tw_check_related_account",
+				"src\\classes\\TestTW_Check_Related_Account.cls"
+			],
+			[
+				"materialrequest",
+				"src\\triggers\\TW_Material_Request.trigger"
+			],
+			[
+				"exmeetingnoteentr",
+				"src\\pages\\ExtMeetingNoteEntryPage.page"
+			],
+			[
+				"biu",
+				"src\\triggers\\CustomerCare_BIU_updateCustomerCareRole.trigger"
+			],
+			[
+				"tw_accountrelatedchangeowner",
+				"src\\triggers\\TW_AccountRelatedChangeOwner.trigger"
+			],
+			[
+				"tw_material_request",
+				"src\\triggers\\TW_Material_Request.trigger"
+			],
+			[
+				"mate",
+				"src\\triggers\\TW_Material_Request_Detail.trigger"
+			],
+			[
+				"surveypage",
+				"src\\pages\\SurveyPage.page"
+			],
+			[
+				"ccmreport",
+				"src\\classes\\CCM_Report.cls"
+			],
+			[
+				"cru_reporttest",
+				"src\\classes\\CRU_Report_TestMethod.cls"
+			],
+			[
+				"cru_report",
+				"src\\pages\\CRU_Report.page"
+			],
+			[
+				"testtw_check_related_account",
+				"src\\classes\\TestTW_Check_Related_Account.cls"
+			],
+			[
+				"feeditemaftermultijournal",
+				"src\\triggers\\FeedItemAfterMultiJournal.trigger"
+			],
+			[
+				"crureportexcel",
+				"src\\pages\\CRU_Report_Excel.page"
+			],
+			[
+				"relate",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"tw_new_closely_related",
+				"src\\classes\\TW_New_Closely_related.cls"
+			],
+			[
+				"newrelated",
+				"src\\pages\\TW_New_Closely_related.page"
+			],
+			[
+				"relatedaccout",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"ccm_report",
+				"src\\classes\\CCM_Report.cls"
+			],
+			[
+				"relatedchagetest",
+				"src\\classes\\TW_AccountRelatedChangeOwnerTest.cls"
+			],
+			[
+				"relatedchage",
+				"src\\triggers\\TW_AccountRelatedChangeOwner.trigger"
+			],
+			[
+				"survey",
+				"src\\pages\\SurveyPage.page"
+			],
+			[
+				"relateacc",
+				"src\\triggers\\TW_Check_Related_Account.trigger"
+			],
+			[
+				"viewsurveycontroller",
+				"src\\classes\\ViewSurveyController.cls"
+			],
+			[
+				"globa",
+				"src\\classes\\TW_Globalmethod.cls"
+			],
+			[
+				"mater",
+				"src\\triggers\\TW_Material_Request_Detail.trigger"
+			],
+			[
+				"tw_material_request_detail",
+				"src\\classes\\TW_Material_Request_Detail_Trigger_Test.cls"
+			],
+			[
+				"material_request_detail",
+				"src\\triggers\\TW_Material_Request_Detail.trigger"
+			],
+			[
+				"tw_material_request_detail_trigger",
+				"src\\classes\\TW_Material_Request_Detail_Trigger_Test.cls"
+			],
+			[
+				"twmateriatrigger",
+				"src\\classes\\TW_Material_Request_Detail_Trigger_Test.cls"
+			],
+			[
+				"trigger",
+				"src\\triggers\\TW_Material.trigger"
+			],
+			[
+				"test",
+				"src\\classes\\TestTW_New_Closely_related.cls"
+			],
+			[
+				"tw_globalmethod",
+				"src\\classes\\TW_Globalmethod.cls"
+			],
+			[
+				"relatetrigger",
+				"src\\triggers\\TW_Check_RelatedAC.trigger"
+			],
+			[
+				"addme",
+				"src\\classes\\AddMembers.cls"
+			],
+			[
+				"distributionlist",
+				"src\\classes\\DistributionListTests.cls"
+			],
+			[
+				"ccmtest",
+				"src\\classes\\CCM_Report_TestMethod.cls"
+			],
+			[
+				"case",
+				"src\\triggers\\Case_AI.trigger"
+			],
+			[
+				"atten",
+				"src\\triggers\\Attendee_BI_CopyDate.trigger"
+			],
+			[
+				"cr",
+				"src\\pages\\CRU_Report.page"
+			],
+			[
+				"material",
+				"src\\pages\\MaterialSetting.page"
+			],
+			[
+				"tw_materialsetting",
+				"src\\classes\\TW_MaterialSettingTest.cls"
+			],
+			[
+				"tw_material",
+				"src\\triggers\\TW_Material.trigger"
+			],
+			[
+				"tw_material_trigger",
+				"src\\triggers\\TW_Material_Request_Detail.trigger"
+			],
+			[
+				"twmaterialtest",
+				"src\\classes\\TW_Material_Request_Detail_Trigger_Test.cls"
+			],
+			[
+				"materialtest",
+				"src\\classes\\TW_Material_Trigger_Test.cls"
+			],
+			[
+				"materialsetting",
+				"src\\pages\\MaterialSetting.page"
+			],
+			[
+				"twmretrigger",
+				"src\\triggers\\TW_Material_Request_Detail.trigger"
+			],
+			[
+				"new_weekly_plan_sf1",
+				"src\\classes\\New_Weekly_Plan_SF1.cls"
+			],
+			[
+				"weetest",
+				"src\\classes\\WeeklyPlan_TriggerHandler_test.cls"
+			],
+			[
+				"updatecall",
+				"src\\triggers\\Update_Call_Plan_Status.trigger"
+			],
+			[
+				"week",
+				"src\\classes\\WeeklyPlan_TriggerHandler_test.cls"
+			],
+			[
+				"update",
+				"src\\triggers\\Update_Call_Plan_Status.trigger"
+			],
+			[
+				"weel",
+				"src\\classes\\WeeklyPlan_TriggerHandler_test.cls"
+			],
+			[
+				"calendar",
+				"src\\classes\\Calendar_Page.cls"
+			],
+			[
+				"call",
+				"src\\triggers\\CallPlan_Handling.trigger"
+			],
+			[
+				"reporttrigger",
+				"src\\triggers\\Call_Report_Handling.trigger"
+			],
+			[
+				"callre",
+				"src\\triggers\\Call_Report_Handling.trigger"
+			],
+			[
+				"calen",
+				"src\\classes\\Calendar_Page.cls"
+			],
+			[
+				"callplantrigger",
+				"src\\triggers\\CallPlan_Handling.trigger"
+			],
+			[
+				"new_call_report",
+				"src\\classes\\New_Call_Report.cls"
+			],
+			[
+				"inv",
+				"src\\classes\\INV_Calculate.cls"
+			],
+			[
+				"schedule",
+				"src\\classes\\INV_Calculate_Schedule.cls"
+			],
+			[
+				"calensc",
+				"src\\components\\Calender_Script.component"
+			],
+			[
+				"script",
+				"src\\components\\Calender_Script.component"
+			],
+			[
+				"ca",
+				"src\\components\\Calender_Script.component"
+			],
+			[
+				"newcall",
+				"src\\pages\\New_Call_Report.page"
+			],
+			[
+				"newcallreporttest",
+				"src\\classes\\New_Call_Report_test.cls"
+			],
+			[
+				"new_call_plan_test",
+				"src\\classes\\New_Call_Plan_test.cls"
+			],
+			[
+				"calender_script",
+				"src\\components\\Calender_Script.component"
+			],
+			[
+				"newcallplan",
+				"src\\pages\\New_Call_plan.page"
+			],
+			[
+				"new_call_plan",
+				"src\\pages\\New_Call_plan.page"
+			],
+			[
+				"newcallre",
+				"src\\classes\\New_Call_Report.cls"
+			],
+			[
+				"test_check_past_inv_schedule",
+				"src\\classes\\Test_Check_Past_INV_Schedule.cls"
+			],
+			[
+				"test_inv_calculate",
+				"src\\classes\\Test_INV_Calculate.cls"
+			],
+			[
+				"test_inv",
+				"src\\classes\\Test_INV.cls"
+			],
+			[
+				"netsalesbudgetsnapshot",
+				"src\\classes\\NetSalesBudgetSnapshot.cls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 335.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
