@@ -197,9 +197,9 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1508378934273,
-            "changeTime": 1508378934273,
-            "contentHash": "8a01826ce549a46fe4acc3dba5a20dae9499f7a4"
+            "modifiedTime": 1508380499973,
+            "changeTime": 1508380499973,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
         }
     ],
     [
@@ -268,16 +268,16 @@
         }
     ],
     [
-        "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location01__c.field-meta.xml",
+        "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
         {
             "state": "u",
-            "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location01__c.field-meta.xml",
+            "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 407,
-            "modifiedTime": 1508378934277,
-            "changeTime": 1508378934277,
-            "contentHash": "28dbe38c39e9dbd149e18810a7097bb68fe2ccba"
+            "size": 403,
+            "modifiedTime": 1508380499976,
+            "changeTime": 1508380499976,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
         }
     ]
 ]
