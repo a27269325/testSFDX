@@ -2,14 +2,14 @@
     [
         "C:\\Users\\michael\\test01\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508222653280,
             "changeTime": 1508222653280,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\michael\\test01\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508222653280,
             "changeTime": 1508222653280,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,27 +32,27 @@
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245206,
             "changeTime": 1508229245206,
-            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508222653280,
             "changeTime": 1508222653280,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,146 +60,133 @@
     [
         "C:\\Users\\michael\\test01",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\michael\\test01",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508224703842,
             "changeTime": 1508224703842,
             "contentHash": "fb563aa94c3be5e02f4d912a1310f294a71596de",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
     ],
     [
-        "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 403,
-            "modifiedTime": 1508229245108,
-            "changeTime": 1508229245108,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
-        }
-    ],
-    [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1508229245122,
             "changeTime": 1508229245122,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1508229245135,
             "changeTime": 1508229245135,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1508229245147,
             "changeTime": 1508229245147,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1508229245157,
             "changeTime": 1508229245157,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4373,
             "modifiedTime": 1508229245162,
             "changeTime": 1508229245162,
-            "contentHash": "ac146ad4828da47bb2a3e45e664ddaef1e1aaf9d"
+            "contentHash": "ac146ad4828da47bb2a3e45e664ddaef1e1aaf9d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4369,
             "modifiedTime": 1508229245171,
             "changeTime": 1508229245171,
-            "contentHash": "3ddd9cef9ff7e4457b775b5a3b120e1e051abe80"
+            "contentHash": "3ddd9cef9ff7e4457b775b5a3b120e1e051abe80",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4709,
             "modifiedTime": 1508229245177,
             "changeTime": 1508229245177,
-            "contentHash": "e438db80e4aeeecbf992be6e83d759c571b35faf"
+            "contentHash": "e438db80e4aeeecbf992be6e83d759c571b35faf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17169,
             "modifiedTime": 1508229245205,
             "changeTime": 1508229245205,
-            "contentHash": "5598c015dd07bc6e39d50d22ad74e2e64e0b7392"
+            "contentHash": "5598c015dd07bc6e39d50d22ad74e2e64e0b7392",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1508229245208,
             "changeTime": 1508229245208,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -210,74 +197,87 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1508229245104,
-            "changeTime": 1508229245104,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "modifiedTime": 1508378934273,
+            "changeTime": 1508378934273,
+            "contentHash": "8a01826ce549a46fe4acc3dba5a20dae9499f7a4"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245102,
             "changeTime": 1508229245102,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245102,
             "changeTime": 1508229245102,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245153,
             "changeTime": 1508229245153,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245200,
             "changeTime": 1508229245200,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\michael\\test01\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1508229245207,
             "changeTime": 1508229245207,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location01__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\michael\\test01\\force-app\\main\\default\\objects\\Account\\fields\\Location01__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1508378934277,
+            "changeTime": 1508378934277,
+            "contentHash": "28dbe38c39e9dbd149e18810a7097bb68fe2ccba"
         }
     ]
 ]
